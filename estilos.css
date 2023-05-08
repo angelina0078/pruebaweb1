@@ -1,0 +1,51 @@
+body {
+background-color: rgb(73, 73, 168);
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: white;
+}
+
+p {
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 900;
+
+    color: white;
+}
+
+#encabezado {
+    background-color: rgb(72, 148, 135);
+}
+
+.boton {
+    text-decoration: none;
+    color: white;
+    border: 2px solid rgb(62, 63, 62);
+    padding: 5px;
+    border-radius: 5px;
+    display: i;
+}
+
+#opciones {
+    text-align: center;
+    list-style: none;
+    /*elimina los puntos, viñetas*/
+}
+
+#opciones li {
+    display: inline-block;
+    padding: 10px;
+}
+
+.img {
+    color: white;
+}
